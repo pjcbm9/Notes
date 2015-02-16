@@ -11,4 +11,8 @@ adding and committing:
 http://media.pragprog.com/titles/tsgit/chap-005-extract.html
 
 (Consider gitting (ha ha) the book.)
-
+-----------------------------------------------------------------------------------------------
+Paul Crow
+-----------------------------------------------------------------------------------------------
+The following link is a great reference for learning some of the basics for MVC in ASP.NET
+http://www.w3schools.com/aspnet/mvc_app.asp
